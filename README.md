@@ -1,7 +1,7 @@
 cocoaheads-iOS
 ==============
 
-Place holder for the Brisbane cocoaheads app.
+Place holder for the Brisbane cocoaheads app, for the Brisbane CocoaHeads meetup group at http://www.meetup.com/CocoaHeads/
 
 Features
 --------
